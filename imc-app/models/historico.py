@@ -1,6 +1,6 @@
 class Historico:
 
-    def __inicio__(self):
+    def __init__(self):
         self.registros = []
 
     def adicionar(self, pessoa):
